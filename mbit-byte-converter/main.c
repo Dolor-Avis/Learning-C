@@ -2,6 +2,9 @@
 #include <limits.h>
 
 void main(){
+
+    printf("This is a simple Mbit-Byte converter.\nTry it yourself.\n");
+
     unsigned long long int size_in_bytes, mbit_size, out;
     size_in_bytes = 125000;
 
