@@ -1,1 +1,1 @@
-# Programm that converts approximately Megabits to Bytes
+# Programm that converts (approximately) Megabits to Bytes
