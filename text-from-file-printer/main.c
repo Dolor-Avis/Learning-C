@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void main(){
-    #define CHUNK 512 /* read 512 bytes at a time */
+    #define CHUNK 2048 /* read 2048 bytes at a time */
     char buffor[CHUNK];
     FILE *file;
     size_t newread;
