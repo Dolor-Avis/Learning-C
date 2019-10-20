@@ -1,1 +1,1 @@
-# Programm for printing text from file.
+# Programm that prints text from file.
