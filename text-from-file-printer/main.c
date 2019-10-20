@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/* Created with help from Stack Overflow */
 void main(){
     #define CHUNK 2048 /* read 2048 bytes at a time */
     char buffor[CHUNK];
@@ -17,5 +17,3 @@ void main(){
         fclose(file);
 }
 }
-
-/* Created with help from Stack Overflow */
