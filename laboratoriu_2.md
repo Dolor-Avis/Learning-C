@@ -29,7 +29,7 @@ chmod 640 helloworld/main.c
 5. Będąc w katalogu temp przenieś katalog wazne-sprawy do katalogu praca.
 
 ```sh
-cd temp && mv -r wazne-sprawy praca
+cd temp && mv wazne-sprawy praca
 ```
 
 6. Zarchiwizuj cały katalog temp. (zip i tar)
