@@ -47,7 +47,7 @@ rm -rf temp
 
 8. Odtwórz z archiwum katalog temp. (unzip i tar)
 
-``sh
+```sh
 unzip -q temp.zip
 tar -xf temp.tar
 ```
