@@ -1,6 +1,6 @@
 CFLAGS=-g -Wall -std=c11
 LDLIBS=-lm
-CC = icc
+# CC = icc
 
 jbernoulli: jbernoulli.c
 
